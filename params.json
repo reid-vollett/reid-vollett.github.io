@@ -1,6 +1,6 @@
 {
-  "name": "Reid-vollett.GitHub.io",
-  "tagline": "Page for Reid Vollett",
-  "body": "### Welcome!",
+  "name": "Personal and School Projects",
+  "tagline": "Reid Vollett",
+  "body": "### Welcome!\r\nThis page will be used to display all personal and school related projects.\r\n\r\n## Steam Achievement Comparison\r\nWork in progress by myself, Eddy King, and Evan Urquhart. We plan on designing a Steam Achievement comparison program for SOFE 3700 Data Management. The program will take 2 profiles and perform analytics on Steam Achievements for their mutual games. ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
