@@ -1,0 +1,8 @@
+title: Personal and School Projects
+description: Reid Vollett
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
